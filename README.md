@@ -15,7 +15,7 @@ Original matrix (Rows=Users, Columns=Ratings from 0-5):
 Output:
 
 List of recommendations based on user similarity: 
-Person 1 will most likely enjoy movie 1.
+Person 1 will most likely enjoy movie 1.\n
 Person 1 will most likely enjoy movie 4.
 Person 1 will most likely enjoy movie 7.
 Person 2 will most likely enjoy movie 7.
