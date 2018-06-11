@@ -1,6 +1,6 @@
 # Recommender System
 
-Original matrix (Rows=Users, Columns=Ratings from 0-5):  
+Original matrix (Rows=Users, Columns=Ratings from 0-5, 0=User has not rated the movie):  
 ```
 [0.0000, 4.0000, 5.0000, 0.0000, 4.0000, 4.0000, 0.0000]  
 [4.0000, 0.0000, 4.0000, 0.0000, 0.0000, 3.0000, 0.0000]  
